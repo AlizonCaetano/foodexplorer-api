@@ -53,4 +53,4 @@ O Render é um serviço gratuíto então é normal que ao utilizar haja um delay
 <br>
 Aguarde e em instantes o serviço passará a rodar.
 <br>
-[Acessar aplicação online:](https://beta-foodexplorer.netlify.app/)
+[Clique aqui para acessar aplicação online](https://beta-foodexplorer.netlify.app/)
