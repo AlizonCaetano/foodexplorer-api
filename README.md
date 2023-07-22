@@ -32,6 +32,10 @@ $ npm install
 # Agora inicie o servidor do BackEnd
 $ npm run dev
 ```
+#### Abra seu navegador e acesse o localhost na porta 3232
+```bash
+Open [http://localhost:3232](http://localhost:3232)
+```
 
 ###  Entendendo as rotas
 
@@ -52,5 +56,6 @@ Este BackEnd foi hospedado diretamente no Render.
 O Render é um serviço gratuíto então é normal que ao utilizar haja um delay de cerca de 1 minuto para acordar da hibernação, caso fique 15 minutos sem utilizar o serviço ele voltará para hibernação.
 <br>
 Aguarde e em instantes o serviço passará a rodar.
+<br>
 <br>
 [Clique aqui para acessar aplicação online](https://beta-foodexplorer.netlify.app/)
