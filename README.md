@@ -33,7 +33,7 @@ $ npm install
 $ npm run dev
 ```
 #### Abra seu navegador e acesse o localhost na porta 3232
-http://localhost:3232](http://localhost:3232)
+[http://localhost:3232](http://localhost:3232)
 
 ###  Entendendo as rotas
 
