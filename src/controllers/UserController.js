@@ -12,7 +12,7 @@ class UserController{
         const { name, email, password } = req.body
 
         const userRepository = new UserRepository()
-        const UserCreateService = new UserCreateService(userRepository)
+        const userCreateService = new UserCreateService(userRepository)
         await userCreateService.execute(name, email, password)
 
         return res.status(201).json()
