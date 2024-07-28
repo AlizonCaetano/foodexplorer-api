@@ -48,12 +48,3 @@ $ npm run dev
 /users  #post -> cria um usuário
 ```
 
-_________
-Este BackEnd foi hospedado diretamente no Render. 
-<br>
-O Render é um serviço gratuíto então é normal que ao utilizar haja um delay de cerca de 1 minuto para acordar da hibernação, caso fique 15 minutos sem utilizar o serviço ele voltará para hibernação.
-<br>
-Aguarde e em instantes o serviço passará a rodar.
-<br>
-<br>
-[Clique aqui para acessar aplicação online](https://beta-foodexplorer.netlify.app/)
